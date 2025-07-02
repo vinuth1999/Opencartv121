@@ -1,6 +1,20 @@
-//this is my sample testing
-//this is my sample testing
-//this is my sample testing
-//this is my sample testing
-//this is my sample testing
+git init (one time)
+
+//provide user information to git (one time)
+git config --global user.email "vinuthvinu558@gmail.com"
+
+//adding files/folder to staging/indexing
+git add -A
+git add filename
+git add *.java
+git add foldername
+
+//commit the code into Local(git) repository
+git commit -m "First Commit"
+
+//connect local repository with remote repository (one time)
+git remote add origin "url"
+
+//push code into remote repository
+git push origin master
 
