@@ -1,0 +1,7 @@
+14:15:33.937 [main] INFO  testCases.TC001_AccountRegistration - ***** Starting TC001_AccountRegistrationTest ****
+14:15:34.148 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccount Link
+14:15:34.781 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register Link
+14:15:34.783 [main] INFO  testCases.TC001_AccountRegistration - Providing the Customer Details.....
+14:15:36.864 [main] INFO  testCases.TC001_AccountRegistration - Validation expecting meassge
+14:15:36.900 [main] ERROR testCases.TC001_AccountRegistration - Test is Falied
+14:15:36.900 [main] DEBUG testCases.TC001_AccountRegistration - Debug Logs...
